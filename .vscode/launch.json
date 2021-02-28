@@ -1,0 +1,116 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaListagemDeCategoriasComProdutos",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaListagemDeCategoriasComProdutos",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaListagemDeCategorias",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaListagemDeCategorias",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaInsercaoEListagemComProduto",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaInsercaoEListagemComProduto",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaInsercaoComProdutoV2",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaInsercaoComProdutoV2",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaInsercaoComProduto",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaInsercaoComProduto",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaPoolConexoes",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaPoolConexoes",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaListagemWithPool",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaListagemWithPool",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaConexaoWithPool",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaConexaoWithPool",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaInsercaoComParametrosV3",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaInsercaoComParametrosV3",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaInsercaoComParametrosV2",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaInsercaoComParametrosV2",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaInsercaoComParametros",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaInsercaoComParametros",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaRemocao",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaRemocao",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaInsercao",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaInsercao",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaListagem",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaListagem",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaConexao",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.TestaConexao",
+            "projectName": "jdbc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "br.com.pessoal.jdbc.App",
+            "projectName": "jdbc"
+        }
+    ]
+}
